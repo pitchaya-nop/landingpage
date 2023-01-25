@@ -42,6 +42,8 @@ function App() {
         <Route exact path="/webhook" component={Webhhok} />
         <Route exact path="/policy/en" component={PolicyEN} />
         <Route exact path="/policy/th" component={PolicyTH} />
+
+        {/* test commit  landing page */}
         {/* <Route exact path="/policy/en" component={PolicyEN} />
         <Route exact path="/policy/th" component={PolicyTH} />
         <Route exact path="/policy/cn" component={PolicyCN} /> */}
